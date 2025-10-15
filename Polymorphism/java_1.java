@@ -19,5 +19,6 @@ public class java_1 {
 
 // list a = [12, 13, 67, 89, 22]
 // map m={12:3, 13:4, 67:5, 89:6, 22:7}
-// for i in range(len(a)):
+// for i in range(len(a)):  // this is a DSA program just ignore it sir/mam.
+
     
