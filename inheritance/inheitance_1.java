@@ -7,7 +7,7 @@ public class inheitance_1 {
         System.out.println(a+b);
     }   
 }
-class A extends inheitance_1{
+class A_4 extends inheitance_1{
     @Override
     void add(int a,int b){
         this.a=a;
@@ -15,7 +15,7 @@ class A extends inheitance_1{
         System.out.println(a+b+a);
     }
     public static void main(String[] args){
-        A var_1 =new A();
+        A_4 var_1 =new A_4();
         var_1.add(2,3);
     }
 }
