@@ -1,4 +1,3 @@
-# Arrays
 
 # 📂 Arrays in Java
 
