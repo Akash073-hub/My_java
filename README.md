@@ -1,64 +1,73 @@
-##🌟 My_java – Complete Java Practice Repository
+🌟 My_java — Complete Java Practice Repository
 
-Welcome to My_java, Dil’s full Java learning and practice repository! ❤️
-This repo contains all Java concepts, assignments, advanced projects, OOP topics, threads, collections, networking, exception handling and more — organized neatly into folders.
+Welcome to My_java, Dil’s complete Java learning repository ❤️
+It contains all Java concepts, from basics → advanced, organized cleanly into folders.
 
-This is your complete Java learning journey in one place 🚀.
+This repo includes:
 
-📚 Repository Overview
+✅ OOP (Encapsulation, Inheritance, Polymorphism, Abstraction)
 
-This repository is structured to help you learn Java step by step, from basics ➝ advanced.
-Each folder contains multiple programs + one README describing that module.
+✅ Collections (List, Set, Map, TreeMap, Iterator)
 
-📁 Folder Structure & Purpose
+✅ Threads & Synchronization
 
-Below is a clean explanation of everything inside My_java 👇
+✅ Exception Handling + Custom Exceptions
 
-🔢 1. Arrays/
+✅ File Handling
 
-Programs related to:
+✅ Projects (Bank System, Agriculture, Hotel)
 
-Array creation
+…and more!
 
-Sorting & searching
+📂 Folder Structure
+
+Below is a full breakdown of each folder and what it contains.
+
+🔢 Arrays/
+
+Programs covering:
 
 1D & 2D arrays
 
+Sorting, searching
+
 Matrix operations
 
-Array manipulation (reverse, rotate, merge, frequency count)
+Reverse, rotate, merge arrays
 
-🔁 2. Loops/
+Frequency counter algorithms
 
-Contains:
+🔁 Loops/
 
-for, while, do-while loops
+Practice for:
 
-pattern printing
+for, while, do-while
 
-number logic programs
+Nested loops
 
-star patterns
+Pattern printing
 
-nested loops
+Basic number logic programs
 
-🧠 3. Conditional_problems/
+🧠 Conditional_problems/
 
-Covers:
+Includes:
 
-if–else
+if–else programs
 
-switch-case
+switch statements
 
-simple decision-making problems
+Complex decision-making
 
-menu-driven programs
+Menu-driven logic
 
-🧱 4. OOPs/
+🧱 OOPs/
 
-Core Object-Oriented Programming:
+Covers core Object-Oriented topics:
 
-Classes & objects
+Classes & Objects
+
+Abstraction
 
 Encapsulation
 
@@ -66,119 +75,127 @@ Inheritance
 
 Polymorphism
 
-Abstraction
+Method Overriding & Overloading
 
-Method overriding/overloading
+🔐 Encapsulation/
 
-🔐 5. Encapsulation/
+Programs using:
 
-Includes:
+Private variables
 
-Private fields
+Getter & setter methods
 
-Getter/setter methods
+Data hiding concepts
 
-Encapsulated class models
-
-📦 6. Polymorphism/
-
-Programs showing:
-
-Method overloading
-
-Method overriding
-
-Dynamic binding (runtime polymorphism)
-
-🌳 7. Inheritance/
-
-Demonstrates:
-
-Single / Multilevel / Hierarchical inheritance
-
-Use of super()
-
-Constructor chaining
-
-IS-A relationships
-
-🧵 8. Thread_Synchronized/
-
-Complete multithreading:
-
-Thread class & Runnable
-
-Thread priority
-
-Synchronization (synchronized keyword)
-
-Race conditions
-
-Locks & thread safety
-
-🛠️ 9. Methods/
-
-Programs related to:
-
-User-defined methods
-
-Static methods
-
-Return types
-
-Passing objects to methods
-
-✍️ 10. Strings/
+🌳 Inheritance/
 
 Contains:
 
-String operations
+Single, Multi-level, Hierarchical inheritance
 
-StringBuilder & StringBuffer
+Constructor chaining
 
-Character counting, substring, palindrome
+Usage of super()
 
-🧪 11. Exception_handling/
+🌀 Polymorphism/
 
-Programs covering:
+Includes:
+
+Method Overloading
+
+Method Overriding
+
+Runtime polymorphism examples
+
+🚦 Exception_handling/
+
+Programs on:
 
 try–catch–finally
 
 Multiple catch blocks
 
+throw & throws
+
+Custom Exceptions
+
+🧵 Thread_Synchronized/
+
+Covers:
+
+Thread creation (Thread class, Runnable)
+
+Synchronization
+
+Race conditions
+
+Locks
+
+Synchronized blocks & methods
+
+🔧 Methods/
+
+Contains:
+
+Static vs non-static methods
+
+Return types
+
+Parameter passing
+
+Methods inside classes for various problems
+
+✍️ Strings/
+
+Includes:
+
+String operations
+
+StringBuilder & StringBuffer
+
+Palindrome checks
+
+Substring & splitting
+
+Character frequency
+
+📦 Projects/
+
+Contains real-world Java mini-projects:
+
+🚜 Smart_Agriculture_Automation/
+
+Features:
+
+Workers, machines, owners
+
+Skill levels, automation logic
+
+OOP + Collections + File handling
+
+Reports & calculations
+
+🏦 Advanced_Bank_Account_Processor/
+
+Includes:
+
+SavingsAccount system
+
+Deposits, withdrawals
+
 Custom exceptions
 
-throw & throws keyword
+Collections (List, Set, Map, TreeMap)
 
-🔧 12. Projects/
-Projects/
+File writing (account_report.txt)
 
-Contains your real-world Java projects:
+Multithreading + synchronization
 
-🚜 Smart_Agriculture_Automation
+🍽 hotel/
 
-OOP + Collections project simulating smart farming workflow.
-Includes sensors, machines, workers, automation logic.
+Contains:
 
-🏦 Advanced_Bank_Account_Processor
-
-A mini banking system with:
-
-Transactions
-
-Exceptions
-
-File handling
-
-Collections
-
-Statement generation
-
-🍽️ hotel
-
-A full restaurant management mini-app including:
-
-Menus
+Menu system
 
 Billing
 
@@ -186,13 +203,28 @@ Interfaces
 
 Packages
 
-Collections
+Collections and exception handling
 
-📝 13. students.txt
+📝 students.txt
 
-A text file used for file handling practice.
+Used for file handling read/write operations.
 
-🚀 14. out/
+📤 out/
 
-Auto-generated compiled .class files created by IntelliJ or terminal builds.
-(Not meant for editing; included for project completeness.)
+Auto-generated compiled .class files.
+(You normally ignore this folder in Git.)
+
+⚙️ GitHub Workflows
+
+Inside:
+.github/workflows/gradle.yml
+
+It performs:
+
+⚡ Automatic compile/build
+
+⚡ CI pipeline
+
+⚡ Verifies there are no errors on each push
+
+⚡ Professional project setup like real companies
