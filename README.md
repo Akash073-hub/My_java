@@ -20,7 +20,7 @@ It contains all Java concepts, from basics → advanced, organized cleanly into 
 <h2>📁 Folder Structure</h2>
 <p>Below is a full breakdown of each folder and what it contains.</p>
 
-<h3>📘 Arrays/</h3>
+<h3>📘 Arrays</h3>
 <ul>
   <li>1D & 2D Arrays</li>
   <li>Matrix Operations</li>
@@ -28,21 +28,21 @@ It contains all Java concepts, from basics → advanced, organized cleanly into 
   <li>Array logic programs (reverse, rotate, frequency)</li>
 </ul>
 
-<h3>🔁 Loops/</h3>
+<h3>🔁 Loops</h3>
 <ul>
   <li>for, while, do-while</li>
   <li>Nested loops</li>
   <li>Pattern printing</li>
 </ul>
 
-<h3>⚙️ Conditional_problems/</h3>
+<h3>⚙️ Conditional_problems</h3>
 <ul>
   <li>if–else</li>
   <li>switch</li>
   <li>Menu-driven programs</li>
 </ul>
 
-<h3>🏛 OOPs/</h3>
+<h3>🏛 OOPs</h3>
 <ul>
   <li>Classes & Objects</li>
   <li>Abstraction</li>
@@ -51,16 +51,16 @@ It contains all Java concepts, from basics → advanced, organized cleanly into 
   <li>Polymorphism</li>
 </ul>
 
-<h3>🔐 Encapsulation/</h3>
+<h3>🔐 Encapsulation</h3>
 <p>All programs based on private variables, getters, setters, and data-hiding.</p>
 
-<h3>🌳 Inheritance/</h3>
+<h3>🌳 Inheritance</h3>
 <p>Single, multilevel, hierarchical inheritance + super() chaining examples.</p>
 
-<h3>🌀 Polymorphism/</h3>
+<h3>🌀 Polymorphism</h3>
 <p>Method overloading + method overriding programs.</p>
 
-<h3>🚨 Exception_handling/</h3>
+<h3>🚨 Exception_handling</h3>
 <ul>
   <li>try-catch-finally</li>
   <li>throw & throws</li>
@@ -68,7 +68,7 @@ It contains all Java concepts, from basics → advanced, organized cleanly into 
   <li>Custom Exceptions</li>
 </ul>
 
-<h3>🧵 Thread_Synchronized/</h3>
+<h3>🧵 Thread_Synchronized</h3>
 <ul>
   <li>Creating threads</li>
   <li>Runnable interface</li>
@@ -76,10 +76,10 @@ It contains all Java concepts, from basics → advanced, organized cleanly into 
   <li>Race condition handling</li>
 </ul>
 
-<h3>🧩 Methods/</h3>
+<h3>🧩 Methods</h3>
 <p>Programs demonstrating static vs non-static methods, return types, and parameters.</p>
 
-<h3>📝 Strings/</h3>
+<h3>📝 Strings</h3>
 <ul>
   <li>String operations</li>
   <li>StringBuilder & StringBuffer</li>
@@ -87,16 +87,16 @@ It contains all Java concepts, from basics → advanced, organized cleanly into 
   <li>Substring & splitting</li>
 </ul>
 
-<h3>🚀 Projects/</h3>
+<h3>🚀 Projects</h3>
 
-<h4>🚜 Smart_Agriculture_Automation/</h4>
+<h4>🚜 Smart_Agriculture_Automation</h4>
 <ul>
   <li>Workers, owners, machines</li>
   <li>Skill levels, automation logic</li>
   <li>OOP + collections + file handling</li>
 </ul>
 
-<h4>🏦 Advanced_Bank_Account_Processor/</h4>
+<h4>🏦 Advanced_Bank_Account_Processor</h4>
 <ul>
   <li>Savings Accounts + Transactions</li>
   <li>List & Map for storing records</li>
@@ -105,7 +105,7 @@ It contains all Java concepts, from basics → advanced, organized cleanly into 
   <li>Synchronization</li>
 </ul>
 
-<h4>🍽 hotel/</h4>
+<h4>🍽 hotel</h4>
 <ul>
   <li>Billing system</li>
   <li>Interfaces</li>
