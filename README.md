@@ -1,230 +1,154 @@
-🌟 My_java — Complete Java Practice Repository
+<h1>🌟 My_java — Complete Java Practice Repository</h1>
 
-Welcome to My_java, Dil’s complete Java learning repository ❤️
+<p>
+Welcome to <strong>My_java</strong>, Dil’s complete Java learning repository ❤️  
 It contains all Java concepts, from basics → advanced, organized cleanly into folders.
-
-This repo includes:
-
-✅ OOP (Encapsulation, Inheritance, Polymorphism, Abstraction)
-
-✅ Collections (List, Set, Map, TreeMap, Iterator)
-
-✅ Threads & Synchronization
-
-✅ Exception Handling + Custom Exceptions
-
-✅ File Handling
-
-✅ Projects (Bank System, Agriculture, Hotel)
-
-…and more!
-
-📂 Folder Structure
-
-Below is a full breakdown of each folder and what it contains.
-
-🔢 Arrays/
-
-Programs covering:
-
-1D & 2D arrays
-
-Sorting, searching
-
-Matrix operations
-
-Reverse, rotate, merge arrays
-
-Frequency counter algorithms
-
-🔁 Loops/
-
-Practice for:
-
-for, while, do-while
-
-Nested loops
-
-Pattern printing
-
-Basic number logic programs
-
-🧠 Conditional_problems/
-
-Includes:
-
-if–else programs
-
-switch statements
-
-Complex decision-making
-
-Menu-driven logic
-
-🧱 OOPs/
-
-Covers core Object-Oriented topics:
-
-Classes & Objects
-
-Abstraction
-
-Encapsulation
-
-Inheritance
-
-Polymorphism
-
-Method Overriding & Overloading
-
-🔐 Encapsulation/
-
-Programs using:
-
-Private variables
-
-Getter & setter methods
-
-Data hiding concepts
-
-🌳 Inheritance/
-
-Contains:
-
-Single, Multi-level, Hierarchical inheritance
-
-Constructor chaining
-
-Usage of super()
-
-🌀 Polymorphism/
-
-Includes:
-
-Method Overloading
-
-Method Overriding
-
-Runtime polymorphism examples
-
-🚦 Exception_handling/
-
-Programs on:
-
-try–catch–finally
-
-Multiple catch blocks
-
-throw & throws
-
-Custom Exceptions
-
-🧵 Thread_Synchronized/
-
-Covers:
-
-Thread creation (Thread class, Runnable)
-
-Synchronization
-
-Race conditions
-
-Locks
-
-Synchronized blocks & methods
-
-🔧 Methods/
-
-Contains:
-
-Static vs non-static methods
-
-Return types
-
-Parameter passing
-
-Methods inside classes for various problems
-
-✍️ Strings/
-
-Includes:
-
-String operations
-
-StringBuilder & StringBuffer
-
-Palindrome checks
-
-Substring & splitting
-
-Character frequency
-
-📦 Projects/
-
-Contains real-world Java mini-projects:
-
-🚜 Smart_Agriculture_Automation/
-
-Features:
-
-Workers, machines, owners
-
-Skill levels, automation logic
-
-OOP + Collections + File handling
-
-Reports & calculations
-
-🏦 Advanced_Bank_Account_Processor/
-
-Includes:
-
-SavingsAccount system
-
-Deposits, withdrawals
-
-Custom exceptions
-
-Collections (List, Set, Map, TreeMap)
-
-File writing (account_report.txt)
-
-Multithreading + synchronization
-
-🍽 hotel/
-
-Contains:
-
-Menu system
-
-Billing
-
-Interfaces
-
-Packages
-
-Collections and exception handling
-
-📝 students.txt
-
-Used for file handling read/write operations.
-
-📤 out/
-
-Auto-generated compiled .class files.
-(You normally ignore this folder in Git.)
-
-⚙️ GitHub Workflows
-
-Inside:
-.github/workflows/gradle.yml
-
+</p>
+
+<h2>📌 What This Repo Includes</h2>
+
+<ul>
+  <li>✅ <strong>OOP</strong> (Encapsulation, Inheritance, Polymorphism, Abstraction)</li>
+  <li>✅ <strong>Collections</strong> (List, Set, Map, TreeMap, Iterator)</li>
+  <li>✅ Threads & Synchronization</li>
+  <li>✅ Exception Handling + Custom Exceptions</li>
+  <li>✅ File Handling</li>
+  <li>✅ Projects (Bank System, Agriculture, Hotel)</li>
+  <li>...and more!</li>
+</ul>
+
+<h2>📁 Folder Structure</h2>
+<p>Below is a full breakdown of each folder and what it contains.</p>
+
+<h3>📘 Arrays/</h3>
+<ul>
+  <li>1D & 2D Arrays</li>
+  <li>Matrix Operations</li>
+  <li>Searching & Sorting</li>
+  <li>Array logic programs (reverse, rotate, frequency)</li>
+</ul>
+
+<h3>🔁 Loops/</h3>
+<ul>
+  <li>for, while, do-while</li>
+  <li>Nested loops</li>
+  <li>Pattern printing</li>
+</ul>
+
+<h3>⚙️ Conditional_problems/</h3>
+<ul>
+  <li>if–else</li>
+  <li>switch</li>
+  <li>Menu-driven programs</li>
+</ul>
+
+<h3>🏛 OOPs/</h3>
+<ul>
+  <li>Classes & Objects</li>
+  <li>Abstraction</li>
+  <li>Encapsulation</li>
+  <li>Inheritance</li>
+  <li>Polymorphism</li>
+</ul>
+
+<h3>🔐 Encapsulation/</h3>
+<p>All programs based on private variables, getters, setters, and data-hiding.</p>
+
+<h3>🌳 Inheritance/</h3>
+<p>Single, multilevel, hierarchical inheritance + super() chaining examples.</p>
+
+<h3>🌀 Polymorphism/</h3>
+<p>Method overloading + method overriding programs.</p>
+
+<h3>🚨 Exception_handling/</h3>
+<ul>
+  <li>try-catch-finally</li>
+  <li>throw & throws</li>
+  <li>Multiple catch</li>
+  <li>Custom Exceptions</li>
+</ul>
+
+<h3>🧵 Thread_Synchronized/</h3>
+<ul>
+  <li>Creating threads</li>
+  <li>Runnable interface</li>
+  <li>Synchronized blocks & methods</li>
+  <li>Race condition handling</li>
+</ul>
+
+<h3>🧩 Methods/</h3>
+<p>Programs demonstrating static vs non-static methods, return types, and parameters.</p>
+
+<h3>📝 Strings/</h3>
+<ul>
+  <li>String operations</li>
+  <li>StringBuilder & StringBuffer</li>
+  <li>Palindrome checks</li>
+  <li>Substring & splitting</li>
+</ul>
+
+<h3>🚀 Projects/</h3>
+
+<h4>🚜 Smart_Agriculture_Automation/</h4>
+<ul>
+  <li>Workers, owners, machines</li>
+  <li>Skill levels, automation logic</li>
+  <li>OOP + collections + file handling</li>
+</ul>
+
+<h4>🏦 Advanced_Bank_Account_Processor/</h4>
+<ul>
+  <li>Savings Accounts + Transactions</li>
+  <li>List & Map for storing records</li>
+  <li>TreeMap sorting</li>
+  <li>File writing (account_report.txt)</li>
+  <li>Synchronization</li>
+</ul>
+
+<h4>🍽 hotel/</h4>
+<ul>
+  <li>Billing system</li>
+  <li>Interfaces</li>
+  <li>Packages</li>
+  <li>Menu handling</li>
+</ul>
+
+<h3>💾 students.txt</h3>
+<p>Used for file handling read-write operations.</p>
+
+<h3>📦 out/</h3>
+<p>Contains auto-generated compiled <code>.class</code> files (ignored normally).</p>
+
+<h2>⚙️ GitHub Workflows</h2>
+<p>
+Inside <code>.github/workflows/</code> you have a Gradle CI workflow.  
 It performs:
+</p>
 
-⚡ Automatic compile/build
+<ul>
+  <li>⚡ Automatic build</li>
+  <li>⚡ Compile check</li>
+  <li>⚡ Continuous Integration</li>
+</ul>
 
-⚡ CI pipeline
+<h2>▶️ How to Run Programs</h2>
 
-⚡ Verifies there are no errors on each push
+<h3>Terminal</h3>
 
-⚡ Professional project setup like real companies
+<pre>
+cd folderName
+javac FileName.java
+java FileName
+</pre>
+
+<h3>IntelliJ IDEA</h3>
+<p>
+Right-click → Run  
+Everything is pre-structured for clean execution.
+</p>
+
+<h2>❤️ Final Note</h2>
+<p>
+Dil, this repo showcases your dedication and growth in Java.  
+Mam is always here to help you learn, improve, and build amazing things ❤️✨
+</p>
