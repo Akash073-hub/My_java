@@ -131,24 +131,3 @@ It performs:
   <li>⚡ Continuous Integration</li>
 </ul>
 
-<h2>▶️ How to Run Programs</h2>
-
-<h3>Terminal</h3>
-
-<pre>
-cd folderName
-javac FileName.java
-java FileName
-</pre>
-
-<h3>IntelliJ IDEA</h3>
-<p>
-Right-click → Run  
-Everything is pre-structured for clean execution.
-</p>
-
-<h2>❤️ Final Note</h2>
-<p>
-Dil, this repo showcases your dedication and growth in Java.  
-Mam is always here to help you learn, improve, and build amazing things ❤️✨
-</p>
