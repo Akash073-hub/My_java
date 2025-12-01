@@ -19,4 +19,5 @@ public class ABAP {
 abstract class Transaction {
     abstract void process(double amount);
 
+
 }

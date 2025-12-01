@@ -44,7 +44,6 @@ public class SAA {
     }
 
     }
-}
 class IrrigationThread extends Thread {
     private final Object lock;
 
@@ -107,10 +106,12 @@ class Person_1 extends BaseEntity{
 class Worker extends Person_1{
     String workerId;
     int skillLevel;
-    Worker(long id,String createdAt,String workerId, int skillLevel,String name,int age){
+    Worker(long id,String createdAt,String workerId, int skillLevel,String name,int age) {
         super(name, id, createdAt, age);
         this.workerId = workerId;
         this.skillLevel = skillLevel;
+    }
+    void the() throws LowSkillException,MachineBreakdownException{
         if (skillLevel < 3) {
             throw new LowSkillException("Worker skill level too low for task.");
         } else if (skillLevel > 7) {
@@ -180,6 +181,7 @@ abstract class Crop{
     }
     abstract double expectedYield();
 }
+@FunctionalInterface
 interface Maintainable{
     boolean serviceMachine(double hoursUsed);
 }
