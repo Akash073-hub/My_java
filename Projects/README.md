@@ -11,14 +11,3 @@ This folder contains mini-projects that combine multiple concepts:
 These projects help in understanding how Java concepts work together.
 
 
-# 🍽️ Hotel Management System
-
-Topics covered:
-- Menu system
-- Customer orders
-- Interface usage
-- Functional interfaces
-- Lambda expressions
-- Exception handling
-- Real world modeling
-
