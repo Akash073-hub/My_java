@@ -128,6 +128,5 @@ It performs:
 <ul>
   <li>⚡ Automatic build</li>
   <li>⚡ Compile check</li>
-  <li>⚡ Continuous Integration</li>
+  <li>⚡ Continuous Integration.</li>
 </ul>
-
