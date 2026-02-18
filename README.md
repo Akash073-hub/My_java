@@ -13,7 +13,7 @@ It contains all Java concepts, from basics → advanced, organized cleanly into 
   <li>✅ Threads & Synchronization</li>
   <li>✅ Exception Handling + Custom Exceptions</li>
   <li>✅ File Handling</li>
-  <li>✅ Projects (Bank System, Agriculture, Hotel)</li>
+  <li>✅ Projects (Bank System,Agriculture, Hotel)</li>
   <li>...and more!</li>
 </ul>
 
