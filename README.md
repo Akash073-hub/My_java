@@ -91,8 +91,8 @@ It contains all Java concepts, from basics → advanced, organized cleanly into 
 
 <h4>🚜 Smart_Agriculture_Automation</h4>
 <ul>
-  <li>Workers, owners, machines</li>
-  <li>Skill levels, automation logic</li>
+  <li>Workers,owners,machines</li>
+  <li>Skill levels,automation logic</li>
   <li>OOP + collections + file handling</li>
 </ul>
 
